@@ -13,8 +13,8 @@ I made my own player which calls **"lpohribn.filler"!**. Project also has a visu
 # Usage
 **./resources/filler_vm -p1 [name player].filler -p2 resources/players/[name player].filler -v -f resources/maps/[map]**
 
-**with visualization:
-./resources/filler_vm -p1 [name player].filler -p2 resources/players/[name player].filler -v -f resources/maps/[map] | ./viz_fill/visualizer**
+with visualization:
+**./resources/filler_vm -p1 [name player].filler -p2 resources/players/[name player].filler -v -f resources/maps/[map] | ./viz_fill/visualizer**
 (play/pause button - space)
 
 ![Alt Text](https://github.com/lpohribn/Filler/blob/master/additional_file/image.gif)
