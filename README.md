@@ -11,9 +11,9 @@ pieces as possible while attempting to prevent his opponent from doing the same.
 I made my own player which calls "lpohribn.filler"! And for bonus: visualization which was realized by SDL!
 
 # Usage
-./resources/filler_vm -p1 [name player].filler -p2 resources/players/[name player].filler -v -f resources/maps/[map]
+# ./resources/filler_vm -p1 [name player].filler -p2 resources/players/[name player].filler -v -f resources/maps/[map]
 
-with visuzlization:
-./resources/filler_vm -p1 [name player].filler -p2 resources/players/[name player].filler -v -f resources/maps/[map] | ./viz_fill/visualizer
+# with visualization:
+# ./resources/filler_vm -p1 [name player].filler -p2 resources/players/[name player].filler -v -f resources/maps/[map] | ./viz_fill/visualizer
 
 ![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)
