@@ -8,7 +8,8 @@ Each successfully placed piece yields a number of points, and has only one playe
 However, it is with two players that the filler takes all his interest. Each player has for the purpose of placing as many
 pieces as possible while attempting to prevent his opponent from doing the same. At the end of the game, the one with the most points wins the match.
 
-I made my own player which calls "lpohribn.filler"! And for bonus: visualization which was realized by SDL!
+I made my own player which calls **"lpohribn.filler"!** And for bonus: visualization which was realized by **SDL**!
+To start the game you must press space, for pause - same button.
 
 # Usage
 **./resources/filler_vm -p1 [name player].filler -p2 resources/players/[name player].filler -v -f resources/maps/[map]**
