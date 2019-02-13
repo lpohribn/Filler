@@ -17,4 +17,6 @@ with visualization:
 **./resources/filler_vm -p1 [name player].filler -p2 resources/players/[name player].filler -v -f resources/maps/[map] | ./viz_fill/visualizer**
 (play/pause button - space)
 
+# Visualization
+
 ![Alt Text](https://github.com/lpohribn/Filler/blob/master/additional_file/image.gif)
