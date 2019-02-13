@@ -17,4 +17,4 @@ I made my own player which calls **"lpohribn.filler"!**. Project also has a visu
 ./resources/filler_vm -p1 [name player].filler -p2 resources/players/[name player].filler -v -f resources/maps/[map] | ./viz_fill/visualizer**
 (play/pause button - space)
 
-![Watch the video](https://drive.google.com/drive/folders/1zDmHpUmL6WeA0RF83qpzQcwk2kABUysL)
+![Watch the video](https://github.com/lpohribn/Filler/blob/master/additional_file/image.gif)
